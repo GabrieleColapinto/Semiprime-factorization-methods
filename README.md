@@ -23,8 +23,8 @@ These concepts are:
 ## Content of the repository
 This repository contains the code and the essay of the project.
 The code is organized in different folders named after the script they contain. Some folders contain more than one script:
-- The folder "Quadratic sieve algorithm" contains two versions of the same algorithm: one vesion is not optimized to allow the user to understand every step, the other version is optimized to minimize the execution time of the algorithm;
-- The folder "Plots" contains the scripts used to print the plots used in the essay;
+- The folder "Quadratic sieve algorithm" contains two versions of the same algorithm: one vesion is not optimized to allow the user to understand every step, the other version is optimized to minimize the execution time of the algorithm.
+- The folder "Plots" contains the scripts used to print the plots used in the essay.
 - The folder "Shor's algorithm" contains three scripts:
     - period_finder.ipynb: This is the script used to find the period of the function used in the exposure of Shor's algorithm.
     - qft.ipynb: This is the script used to draw the QFT circuit used in the essay.
