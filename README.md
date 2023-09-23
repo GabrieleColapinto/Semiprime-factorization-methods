@@ -40,7 +40,9 @@ py -3.11 -m venv .\venv
 Now you have to access the virtual environment and install the required Python modules:
 ```
 .\venv\Scripts\activate
-pip install .\requirements.txt
+python.exe -m pip install --upgrade pip
+pip wheel update
+pip install -r .\requirements.txt
 ```
 
 ## Usage
